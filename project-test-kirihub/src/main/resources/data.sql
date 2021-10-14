@@ -1,0 +1,12 @@
+INSERT INTO tb_produtos (produto_nome, valor_do_produto) VALUES ('Geladeira', 3999.90);
+INSERT INTO tb_produtos (produto_nome, valor_do_produto) VALUES ('TV', 750.00);
+INSERT INTO tb_produtos (produto_nome, valor_do_produto) VALUES ('Guarda-roupa', 250.00);
+INSERT INTO tb_produtos (produto_nome, valor_do_produto) VALUES ('Smarphone', 500.00);
+INSERT INTO tb_produtos (produto_nome, valor_do_produto) VALUES ('Monitor', 1299.00);
+INSERT INTO tb_produtos (produto_nome, valor_do_produto) VALUES ('Cama', 500.00);
+INSERT INTO tb_produtos (produto_nome, valor_do_produto) VALUES ('Mouse Gamer', 129.99);
+INSERT INTO tb_produtos (produto_nome, valor_do_produto) VALUES ('Mouse Pad', 38.90);
+INSERT INTO tb_produtos (produto_nome, valor_do_produto) VALUES ('Notebook Gamer', 4499.99);
+INSERT INTO tb_produtos (produto_nome, valor_do_produto) VALUES ('Teclado Mecânico', 230.00);
+INSERT INTO tb_produtos (produto_nome, valor_do_produto) VALUES ('Headset', 399.00);
+INSERT INTO tb_produtos (produto_nome, valor_do_produto) VALUES ('Smartwatch', 195.00);

@@ -1,4 +1,4 @@
-package com.projecttestkirihub;
+package com.project.kirihub;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,5 +9,4 @@ public class ProjectTestKirihubApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ProjectTestKirihubApplication.class, args);
 	}
-
 }
